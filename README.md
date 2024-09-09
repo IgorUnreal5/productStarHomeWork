@@ -27,7 +27,7 @@ https
    git clone https://github.com/IgorUnreal5/productStarHomeWork.git
    ```
 
-3. Перейдите в директорию проекта:
+2. Перейдите в директорию проекта:
 
 `cd productStarHomeWork`
 
