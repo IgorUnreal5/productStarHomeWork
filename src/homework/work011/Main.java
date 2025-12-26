@@ -1,4 +1,4 @@
-package homework.work011;
+package work011;
 
 import java.util.ArrayList;
 import java.util.List;

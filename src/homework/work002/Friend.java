@@ -1,4 +1,4 @@
-package homework.work002;
+package work002;
 
 public class Friend {
     String name;

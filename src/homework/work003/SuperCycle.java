@@ -1,4 +1,4 @@
-package homework.work003;
+package work003;
 
 import java.util.concurrent.ThreadLocalRandom;
 

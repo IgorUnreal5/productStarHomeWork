@@ -1,4 +1,4 @@
-package homework.work006.circle;
+package work006.circle;
 
 /**
  * Заполните этот класс в соответсвии с заданием из лекции.

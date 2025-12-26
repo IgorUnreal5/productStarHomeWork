@@ -1,3 +1,5 @@
+package work001;
+
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;
 

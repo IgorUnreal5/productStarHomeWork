@@ -1,6 +1,6 @@
-package homework.work006;
+package work006;
 
-import homework.work006.circle.Circle;
+import work006.circle.Circle;
 
 public class TestCircle {
 

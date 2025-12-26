@@ -1,4 +1,4 @@
-package homework.work008;
+package work008;
 import java.util.HashMap;
 
 public class Stringularity {

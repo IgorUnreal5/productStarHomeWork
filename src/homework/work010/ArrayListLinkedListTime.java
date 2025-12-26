@@ -1,4 +1,4 @@
-package homework.work010;
+package work010;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

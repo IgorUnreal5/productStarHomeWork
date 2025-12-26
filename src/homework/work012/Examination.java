@@ -1,4 +1,4 @@
-package homework.work012;
+package work012;
 
 import java.util.Collection;
 import java.util.Set;

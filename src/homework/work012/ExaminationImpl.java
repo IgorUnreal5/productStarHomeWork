@@ -1,4 +1,4 @@
-package homework.work012;
+package work012;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

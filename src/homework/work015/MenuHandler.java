@@ -1,4 +1,4 @@
-package homework.work015;
+package work015;
 
 import java.util.List;
 import java.util.Scanner;

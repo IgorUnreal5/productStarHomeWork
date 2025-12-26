@@ -1,4 +1,4 @@
-package homework.work005;
+package work005;
 
 public class ReverseString {
 
